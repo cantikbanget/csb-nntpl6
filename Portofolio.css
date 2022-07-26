@@ -1,0 +1,73 @@
+body {
+    font: 16px/28px  arial, sans-serif;
+    background-color: lightblue;
+    color: #333;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    
+}
+
+.header {
+    padding: 20px;
+    background-color: orange;
+}
+
+.header .Portofolio {
+    margin: auto;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.section-title {
+    width: 770px;
+    margin: auto;
+    background-color: white;
+}
+
+.section-title p {
+    text-align: justify;
+}
+
+.section-title h1 {
+    font-size: 20px;
+}
+
+input, textarea{
+    width: 400px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #cecece;
+}
+
+.contact {
+    width: 770px;
+    margin: auto;
+    background-color: white;
+}
+
+.contact p {
+    text-align: justify;
+}
+
+.contact h1 {
+    font-size: 20px;
+}
+
+.contact-submit{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border-radius: 100px;
+    margin: 15px;
+}
+
+.footer {
+    background-color: orange;
+    padding: 15px;
+    width: 770px;
+    margin: auto;
+}
